@@ -33,6 +33,9 @@ Licensed under the Apache License. See [LICENSE](/LICENSE)
 
 ## Author
 
-Girard Whentworth
+Skills Network
 
 ## <h3 align="center"> © IBM Corporation 2023. All rights reserved. <h3/>
+
+## Changes
+This is my version.
